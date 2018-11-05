@@ -1,0 +1,1 @@
+{"ticker":{"base":"BTC","target":"USD","price":"7726.31200472","volume":"32320.62868934","change":"-13.41808917"},"timestamp":1528045021,"success":true,"error":""}
