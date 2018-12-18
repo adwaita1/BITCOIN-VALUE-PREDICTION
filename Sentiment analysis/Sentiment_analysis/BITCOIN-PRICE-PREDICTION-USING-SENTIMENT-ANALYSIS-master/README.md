@@ -1,9 +1,3 @@
-## BITCOIN-PRICE-PREDICTION-USING-SENTIMENT-ANALYSIS ##
-### Team: 201712-5 ###
-### Members: ###
-##### Chandra S Narain Kappera - ck2840 #####
-##### Venkata Sai Sriharsha Sammeta - vs2626 #####
-##### Ketan M Mehta - kmm2304 #####
 
 
 ##### Usage Details: #####
